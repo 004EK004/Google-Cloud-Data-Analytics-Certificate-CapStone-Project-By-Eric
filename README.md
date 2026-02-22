@@ -33,7 +33,7 @@ This capstone project represents the culmination of the **Google Cloud Data Anal
 
 - ✅ Collect and consolidate raw data from multiple sources
 - ✅ Process and store data at scale using **BigQuery**
-- ✅ Analyze and visualize findings using **Looker Enterprise**
+- ✅ Analyse and visualise findings using **Looker Enterprise**
 - ✅ Derive and communicate actionable insights to stakeholders
 
 ---
@@ -79,7 +79,7 @@ Findings were packaged and presented to stakeholders in a clear, actionable form
 
 ## 📸 Project Screenshots
 
-### Data Collection & BigQuery Setup
+### Image Gallery
 
 <div align="center">
   <img width="800" alt="Image" src="https://github.com/user-attachments/assets/4e7b47ea-b7b0-4d92-914a-2a81244ca763" />
@@ -91,7 +91,7 @@ Findings were packaged and presented to stakeholders in a clear, actionable form
 
 <br/>
 
-### Data Transformation & Processing
+### Image Gallery
 
 <div align="center">
   <img width="800" alt="Image" src="https://github.com/user-attachments/assets/109abcee-f712-4381-a250-1aa342f081b6" />
@@ -103,7 +103,7 @@ Findings were packaged and presented to stakeholders in a clear, actionable form
 
 <br/>
 
-### Analysis & Looker Dashboards
+### Image Gallery
 
 <div align="center">
   <img width="800" alt="Image" src="https://github.com/user-attachments/assets/981c6e6a-f605-41fd-bdf5-cb2e48539fde" />
@@ -115,7 +115,7 @@ Findings were packaged and presented to stakeholders in a clear, actionable form
 
 <br/>
 
-### Insights & Stakeholder Reporting
+### Image Gallery
 
 <div align="center">
   <img width="800" alt="Image" src="https://github.com/user-attachments/assets/71f487e0-4de0-4404-acbc-6835bad95380" />
