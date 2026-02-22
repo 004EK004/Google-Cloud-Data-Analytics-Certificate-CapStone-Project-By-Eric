@@ -27,15 +27,13 @@ Capstone project for the Google Cloud Data Analytics Certificate. Demonstrates t
 
 This capstone project represents the culmination of the **Google Cloud Data Analytics Certificate** — a 5-course program covering the full data analytics lifecycle on Google Cloud. The project demonstrates proficiency in sourcing, processing, analyzing, and communicating data-driven insights using industry-standard cloud tools.
 
-> *"Data is only as valuable as the decisions it enables."*
-
 ---
 
 ## 🎯 Objectives
 
 - ✅ Collect and consolidate raw data from multiple sources
 - ✅ Process and store data at scale using **BigQuery**
-- ✅ Analyze and visualize findings using **Looker Enterprise**
+- ✅ Analyse and visualise findings using **Looker Enterprise**
 - ✅ Derive and communicate actionable insights to stakeholders
 
 ---
@@ -96,37 +94,6 @@ This project was completed as part of the **Beginner: Google Cloud Data Analytic
 ---
 
 ## 📁 Repository Structure
-
-```
-📦 cloud-data-analytics-capstone
- ┣ 📂 data/
- ┃ ┣ 📂 raw/              # Original source datasets
- ┃ ┗ 📂 processed/        # Cleaned & transformed data
- ┣ 📂 sql/
- ┃ ┣ 📄 ingestion.sql     # Data loading scripts
- ┃ ┣ 📄 transform.sql     # Cleaning & transformation logic
- ┃ ┗ 📄 analysis.sql      # Analytical queries
- ┣ 📂 dashboards/
- ┃ ┗ 📄 looker_views/     # Looker dashboard exports / screenshots
- ┣ 📂 docs/
- ┃ ┣ 📄 methodology.md    # Detailed project methodology
- ┃ ┗ 📄 insights.md       # Key findings & stakeholder report
- ┗ 📄 README.md
-```
-
-> 📝 *Update folder structure above to match your actual repository layout.*
-
----
-
-## 💡 Key Insights
-
-> *(Replace the placeholders below with your actual findings from the capstone project)*
-
-- 📌 **Insight 1** — *[Describe a key trend or finding from your data analysis]*
-- 📌 **Insight 2** — *[Describe a business recommendation supported by the data]*
-- 📌 **Insight 3** — *[Describe a data quality issue discovered and how it was resolved]*
-- 📌 **Insight 4** — *[Describe the most impactful visualization and what it revealed]*
-
 ---
 
 ## 🚀 Getting Started
@@ -140,21 +107,7 @@ To explore this project locally or replicate the analysis:
 
 ### Steps
 
-```bash
-# 1. Clone this repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
 
-# 2. Upload raw data to your GCS bucket
-gsutil cp data/raw/* gs://YOUR_BUCKET_NAME/raw/
-
-# 3. Run ingestion and transformation SQL in BigQuery
-#    Open sql/ingestion.sql in the BigQuery console and execute
-#    Then run sql/transform.sql
-
-# 4. Connect your BigQuery dataset to Looker
-#    Follow the connection guide in docs/methodology.md
-```
 
 ---
 
@@ -163,26 +116,26 @@ gsutil cp data/raw/* gs://YOUR_BUCKET_NAME/raw/
 <div align="center">
 
 **Beginner: Google Cloud Data Analytics Certificate**
-Issued by Google · [View Certificate Path](https://www.skills.google/paths/420)
+Issued by Google · [View Certificate](https://www.credly.com/badges/4e90fd1c-606f-46ec-af31-524407a74e04/public_url)
 
 </div>
 
-This certificate validates skills in cloud-based data collection, storage, transformation, analysis, and visualization — core competencies for a Cloud Data Analyst role.
+This certificate validates skills in cloud-based data collection, storage, transformation, analysis, and visualisation — core competencies for a Cloud Data Analyst role.
 
 ---
 
 ## 👤 Author
 
-**[Your Name]**
+**Eric Kopy**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/erickopy/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/004EK004)
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
